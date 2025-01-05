@@ -87,7 +87,7 @@ delay(3000);
  
  
 ## شماتیک مدار
-![توضیح تصویر](https://github.com/Rahel12384/microprocessor-1/blob/main/1.jpg)
+![توضیح تصویر](https://github.com/Rahel12384/microprocessor-1/blob/main/map%201.jpg)
  
   
 ## نتیجه گیری:
